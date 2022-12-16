@@ -130,10 +130,13 @@ body {
 .link-git:hover {
   color: #21C4DB;
 }
-.section-footer {
+.div-footer {
   color: #ffffff;
 }
 .rsslogo {
   height: 50px;
   width: 100px;
+}
+.section-code{
+  font-size: 16px;
 }
