@@ -6,7 +6,7 @@ Summary: I'm 22 years old. Studied to become a lawyer. But i've lost interest to
 
 Skills: HTML, CSS, JavaScript
 
-Code: <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+Code: ```<li class="nav-item"><a href="#education" class="nav-link">Education</a></li>```
 
 Projects: CV
 
