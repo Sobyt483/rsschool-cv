@@ -14,4 +14,4 @@ Education: Francisk Skorina Gomel State University
 
 Courses: CodeBasics HTML; CodeBasics CSS; RSS JavaScrip/Front-End;
 
-Eanglish: B1-Pre-Intermediate
+Eanglish: B2-Upper-Intermediate
